@@ -1,0 +1,28 @@
+TODO: UML2Java - House-Building-Parts
+-----------------------------------------------------------
+
+********
+DEUTSCH:
+********
+
+1. Klassendiagram zu Java konvertieren.
+	Das Klassendiagramm "ClassDiagram.png" gibt Ihnen die Struktur
+	der Implementierung vor.
+	Implementieren Sie dieses Klassendiagramm.
+
+	überprüfen Sie Ihre Implementierung anhand der
+	Test-Klassen.
+
+
+********
+ENGLISH:
+********
+
+1. Class Diagram to Java code transformation
+	In your project folder you will find the following
+	class diagram file: "ClassDiagram.png" which determines the structure of the
+	classes to implement.
+	Your tasks is it to implement the classes of the class diagram
+	in Java code.
+
+	Test your solution by means of the included unit-tests.
